@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes , Route } from "react-router-dom";
 import NavBar from "./NavBar";
 import { Body } from "./Body";
-import Login from "./login";
+import Login from "./Login";
 import Profile from "./Profile";
 
 function App() {
