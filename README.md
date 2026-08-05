@@ -10,4 +10,15 @@
  - create a footer
 
  - create a Login page
- 
+ - install axios
+ - CORS - install cors in the backend => add middleware to backend with origin : "http://localhost:5173" and credentials : true
+ - install redux toolkit 
+    - configure store 
+    - provider -> app.jsx
+    - create userSlice.js file
+        - export slice
+        - export actions and reducer 
+- add redux dev tools in chrome
+- login and see if your data is coming properly in the store
+- navbar should update as soon as user logs in
+- refactor our code to add constants file + create a components folder
